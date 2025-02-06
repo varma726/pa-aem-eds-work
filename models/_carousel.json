@@ -1,0 +1,17 @@
+{
+  "definitions": [
+    {
+      "title": "Carousel",
+      "id": "carousel",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/image/v1/carousel",
+            "template": {}
+          }
+        }
+      }
+    }
+  ],
+  "models": []
+}
